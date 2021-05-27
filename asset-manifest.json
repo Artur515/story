@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/story/static/css/main.83d3fadd.chunk.css",
+    "main.js": "/story/static/js/main.bea2ed16.chunk.js",
+    "main.js.map": "/story/static/js/main.bea2ed16.chunk.js.map",
+    "runtime-main.js": "/story/static/js/runtime-main.bcba9b9c.js",
+    "runtime-main.js.map": "/story/static/js/runtime-main.bcba9b9c.js.map",
+    "static/js/2.9a0b3aba.chunk.js": "/story/static/js/2.9a0b3aba.chunk.js",
+    "static/js/2.9a0b3aba.chunk.js.map": "/story/static/js/2.9a0b3aba.chunk.js.map",
+    "index.html": "/story/index.html",
+    "static/css/main.83d3fadd.chunk.css.map": "/story/static/css/main.83d3fadd.chunk.css.map",
+    "static/js/2.9a0b3aba.chunk.js.LICENSE.txt": "/story/static/js/2.9a0b3aba.chunk.js.LICENSE.txt",
+    "static/media/AJAX.501b39de.png": "/story/static/media/AJAX.501b39de.png",
+    "static/media/arrowLeft.608a6ecf.png": "/story/static/media/arrowLeft.608a6ecf.png",
+    "static/media/bart.f89179ff.png": "/story/static/media/bart.f89179ff.png",
+    "static/media/bootstrap.09d7d1b9.png": "/story/static/media/bootstrap.09d7d1b9.png",
+    "static/media/about.css": "/story/static/media/learn.20680015.jpg",
+    "static/media/css.6ac464f3.png": "/story/static/media/css.6ac464f3.png",
+    "static/media/daughter.a4fe26ba.jpg": "/story/static/media/daughter.a4fe26ba.jpg",
+    "static/media/door.44c9c108.jpg": "/story/static/media/door.44c9c108.jpg",
+    "static/media/dreaming.f95d5b65.jpg": "/story/static/media/dreaming.f95d5b65.jpg",
+    "static/media/food.f886d96c.png": "/story/static/media/food.f886d96c.png",
+    "static/media/fortnite.c14edc3b.png": "/story/static/media/fortnite.c14edc3b.png",
+    "static/media/git.c2f5c09e.png": "/story/static/media/git.c2f5c09e.png",
+    "static/media/hipsta.9868bedc.png": "/story/static/media/hipsta.9868bedc.png",
+    "static/media/javascript.c88aa177.jpg": "/story/static/media/javascript.c88aa177.jpg",
+    "static/media/love.af8d7938.jpg": "/story/static/media/love.af8d7938.jpg",
+    "static/media/contact.css": "/story/static/media/me.93336a8c.jpg",
+    "static/media/movie.7fc45f10.png": "/story/static/media/movie.7fc45f10.png",
+    "static/media/myLife.3bcaf746.jpg": "/story/static/media/myLife.3bcaf746.jpg",
+    "static/media/never.b9665164.jpg": "/story/static/media/never.b9665164.jpg",
+    "static/media/react.ef20e673.png": "/story/static/media/react.ef20e673.png",
+    "static/media/redux.170eb0c4.png": "/story/static/media/redux.170eb0c4.png",
+    "static/media/smile.36d65066.jpg": "/story/static/media/smile.36d65066.jpg",
+    "static/media/todo.bc279344.png": "/story/static/media/todo.bc279344.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcba9b9c.js",
+    "static/js/2.9a0b3aba.chunk.js",
+    "static/css/main.83d3fadd.chunk.css",
+    "static/js/main.bea2ed16.chunk.js"
+  ]
+}
