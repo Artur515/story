@@ -4,6 +4,8 @@ import git from '../img/works/git.png'
 import hipsta from '../img/works/hipsta.png'
 import movie from '../img/works/movie.png'
 import todo from '../img/works/todo.png'
+import form from '../img/works/form_test.png'
+import wine from '../img/works/wine.png'
 
 export const works = [
     {
@@ -43,6 +45,15 @@ export const works = [
         id: 6,
         url: 'https://github.com/Artur515?tab=repositories',
         img: git
+    }, {
+        title: 'Test form',
+        id: 7,
+        url: 'https://artur515.github.io/test_form/',
+        img: form
+    }, {
+        title: 'Wines',
+        id: 8,
+        url: 'https://artur515.github.io/wines/',
+        img: wine
     }
-
 ]
