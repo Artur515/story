@@ -1,13 +1,13 @@
 {
   "main.css": "/story/static/css/main.07e4bba5.chunk.css",
-  "main.js": "/story/static/js/main.72c15d80.chunk.js",
-  "main.js.map": "/story/static/js/main.72c15d80.chunk.js.map",
+  "main.js": "/story/static/js/main.c655b276.chunk.js",
+  "main.js.map": "/story/static/js/main.c655b276.chunk.js.map",
   "runtime~main.js": "/story/static/js/runtime~main.cde8c04a.js",
   "runtime~main.js.map": "/story/static/js/runtime~main.cde8c04a.js.map",
-  "static/js/2.b48f5268.chunk.js": "/story/static/js/2.b48f5268.chunk.js",
-  "static/js/2.b48f5268.chunk.js.map": "/story/static/js/2.b48f5268.chunk.js.map",
+  "static/js/2.8540a381.chunk.js": "/story/static/js/2.8540a381.chunk.js",
+  "static/js/2.8540a381.chunk.js.map": "/story/static/js/2.8540a381.chunk.js.map",
   "index.html": "/story/index.html",
-  "precache-manifest.484ca86f8b9e6d0725fbd50179fa1f3a.js": "/story/precache-manifest.484ca86f8b9e6d0725fbd50179fa1f3a.js",
+  "precache-manifest.15549ad32ec313aedc8d14ca2355ebb8.js": "/story/precache-manifest.15549ad32ec313aedc8d14ca2355ebb8.js",
   "service-worker.js": "/story/service-worker.js",
   "static/css/main.07e4bba5.chunk.css.map": "/story/static/css/main.07e4bba5.chunk.css.map",
   "static/media/AJAX.png": "/story/static/media/AJAX.5f18d188.png",
@@ -20,6 +20,7 @@
   "static/media/door.jpg": "/story/static/media/door.1e3669c4.jpg",
   "static/media/dreaming.jpg": "/story/static/media/dreaming.45c4de49.jpg",
   "static/media/food.png": "/story/static/media/food.9ce641dd.png",
+  "static/media/form_test.png": "/story/static/media/form_test.596526f9.png",
   "static/media/fortnite.png": "/story/static/media/fortnite.63a633b9.png",
   "static/media/git.png": "/story/static/media/git.fef702d6.png",
   "static/media/hipsta.png": "/story/static/media/hipsta.69486691.png",
@@ -32,5 +33,6 @@
   "static/media/react.png": "/story/static/media/react.cba0b89d.png",
   "static/media/redux.png": "/story/static/media/redux.528bfe4d.png",
   "static/media/smile.jpg": "/story/static/media/smile.f220a307.jpg",
-  "static/media/todo.png": "/story/static/media/todo.5faca351.png"
+  "static/media/todo.png": "/story/static/media/todo.5faca351.png",
+  "static/media/wine.png": "/story/static/media/wine.a901dde0.png"
 }
