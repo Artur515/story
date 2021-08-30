@@ -1,0 +1,17 @@
+.gallery {
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
